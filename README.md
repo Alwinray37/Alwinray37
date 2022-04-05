@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alwinray37
 - 👀 I’m interested in Web Development and Software Development
 - 🌱 I’m currently learning html, css and JS
-- 📫 How to reach me 
+- 📫  
       email: alwinray37@gmail.com
       discord: alwinray #6141
       
