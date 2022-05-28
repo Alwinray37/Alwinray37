@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web Development and Software Development
 - 🌱 I’m currently learning html, css and JS
 - 📫 you can reach at; 
-      email: alwinray37@gmail.com
-      discord: alwinray #6141
+- Email: alwinray37@gmail.com
+- Discord: alwinray #6141
       
 
 <!---
