@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Alwinray37
-- 👀 I’m interested in Web Development and Software Development
+- 👋 Hi, I’m Ray!
+- 👀 I coach volleyball and code on the side 
 - 🌱 Currently pursuing a CS Degree
-- 📫 you can reach at:
- - Email: alwinray37@gmail.com
- - Discord: alwinray #6141
+- Discord: alwinray #6141
       
 
 <!---
