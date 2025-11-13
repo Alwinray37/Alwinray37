@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ray!
-👀 I coach volleyball and code on the side   
-🌱 Currently pursuing a CS Degree  
-Discord: alwinray #6141  
+👀 Web Developer | Volleyball Coach
+🌱 B.S. in Computer Science from Cal State University, Northridge (CSUN)   
+
       
 
 <!---
