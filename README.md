@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Ray!
 👀 Web Developer | Volleyball Coach
+
 🌱 B.S. in Computer Science from Cal State University, Northridge (CSUN)   
 
       
